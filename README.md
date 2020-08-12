@@ -1,7 +1,7 @@
 My assesment was to build a corona virus tracker with react, using a postman API
 
 Link:
-[https://covidsite.netlify.app](View Live Site)
+Open [http://covidsite.netlify.app](http://covidsite.netlify.app) to view it live.
 
 ## Available Scripts
 
