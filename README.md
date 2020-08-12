@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My assesment was to build a corona virus tracker with react, using a postman API
 
 ## Available Scripts
 
