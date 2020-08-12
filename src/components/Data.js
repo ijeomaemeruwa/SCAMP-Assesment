@@ -21,7 +21,7 @@ class Data extends Component {
     render() {
         return (
             <div>
-            <GlobalData globalData = {this.state.global} liveDate = {this.state.liveDate}/>
+           <GlobalData globalData = {this.state.global} liveDate = {this.state.liveDate}/>
             <table>
             <thead>
             <tr>
@@ -38,7 +38,9 @@ class Data extends Component {
             )}
             </tbody>
             </table>
-            </div>
+            </div>         
+             
+
         )
     }
 }
